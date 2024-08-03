@@ -1,0 +1,11 @@
+*2,Confirmed,Bug,A new issue,null,true,
+-[New] "A note"
+-[Confirmed] "Issue is now confirmed"
+*3,Closed,Enhancement,"Another issue",null,false,Duplicate
+-[New] "Another issue"
+-[Closed] "Now resolved"
+*4,Working,Enhancement,"A 3rd issue",Jake,false,
+-[New] "A 3rd issue"
+-[Working] "Assigning an owner"
+*5,New,Bug,"Another bug",null,false,
+-[New] "Another bug note"
